@@ -42,13 +42,13 @@ Este projeto é responsivo, adaptando-se para visualização em dispositivos mó
 
 ## Layout
 # Desktop
-- **O banner do Instagram é exibido ao lado do formulário de login.
-- **Layout centralizado com links de recuperação de senha e cadastro.
+- O banner do Instagram é exibido ao lado do formulário de login.
+- Layout centralizado com links de recuperação de senha e cadastro.
 ## Mobile
-- **Banner do Instagram oculto.
+- Banner do Instagram oculto.
 Layout ajustado para melhor visualização em telas pequenas.
 ## Licença
-- **Este projeto é para fins educacionais e não possui vínculo com o Instagram ou Meta.
+- Este projeto é para fins educacionais e não possui vínculo com o Instagram ou Meta.
 
 ## Autor
-- **Desenvolvido por # Maxwell Moura
+- Desenvolvido por # Maxwell Moura
